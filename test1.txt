@@ -1,7 +1,7 @@
 /*
 							Made by Mitch. Message me
 							on the community slack!!
-							http://join.chilloutmusic.fm/
+							http://join.chilloutmusic.fm/derp
 */
 
 /* Lobby */
