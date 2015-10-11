@@ -41,7 +41,7 @@
 }
 #player-controller ul li a:hover, 
 #player-controller ul li a.voted {
-    background: #aa74ff;
+    background: #66CCFF;
     opacity: 1;
 }
 #player-controller ul li a.dubdown:hover, 
@@ -54,7 +54,7 @@
     border-left: 1px #202020 solid;
 }
 #player-controller .right li.copy span {
-    color: rgba(66, 165, 220, 1);
+    color: #66CC66;
 }
 
 /* Left Side Menu */
@@ -238,11 +238,12 @@ button:hover {
 
 /* Special User Colours */
 #chat .chat-container ul.chat-main li .activity-row .text p a.username {
+
     color: #66FF66 !important;
     opacity: 1 !important;
 }
 #chat .chat-container ul.chat-main li .activity-row .text p span.username-handle {
-    color: #CCCCCC;
+    color: green;
     opacity: 1;
 }
 #chat .chat-container ul.chat-main li:nth-child(even) {
